@@ -1,2 +1,2 @@
 # Portfolio-Projects
-This resspotory contains both  Data analysis and Machine learning projects
+This repository contains both Data analysis and Machine learning projects
